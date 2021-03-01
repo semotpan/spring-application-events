@@ -3,7 +3,7 @@
 * Transaction-bound Application Listeners
 * Asynchronous Application Listeners
 
-see the [post](https://semotpan.com/java/2021/02/28/spring-custom-application-events.html) for a detailed description
+see the [post](https://semotpan.com/java/2021/02/28/spring-custom-application-events-explained.html) for a detailed description
 
 ## What you’ll need
 * JDK 11
